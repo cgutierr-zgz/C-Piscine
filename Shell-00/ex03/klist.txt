@@ -1,0 +1,6 @@
+Credentials cache: API:B61E8F27-1EE4-4F64-8E40-D9D1B3148AB1
+        Principal: cgutierr@42MADRID.COM
+
+  Issued                Expires               Principal
+Feb  5 18:40:20 2020  Feb  6 04:40:20 2020  krbtgt/42MADRID.COM@42MADRID.COM
+Feb  5 18:44:44 2020  Feb  6 04:40:20 2020  host/vogsphere.42madrid.com@42MADRID.COM
